@@ -18,3 +18,19 @@ const bigZucchine = zucchine.filter(big => big.length >= 15);
 const littleZucchine = zucchine.filter(big => big.length < 15);
 
 console.log(bigZucchine, littleZucchine);
+
+//bonus
+// const bigZucchine = [];
+// const littleZucchine = [];
+// for (let i = 0; i < zucchine.length; i++) {
+//   if(zucchine[i].length >= 15){
+//     bigZucchine.push(zucchine[i]);
+//   }else{
+//     littleZucchine.push(zucchine[i]);
+//   }
+  
+  
+// }
+
+// console.log(littleZucchine);
+// console.log(bigZucchine);
