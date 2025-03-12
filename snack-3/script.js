@@ -6,4 +6,10 @@ const numbersUp = numbers.map((numbers) => {return numbers + 1});
 
 console.log(numbersUp);
 
+//bonus
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]+1);
+    
+// }
+
 // Risultato: [3, 9, 5, 8, 3, 88]
