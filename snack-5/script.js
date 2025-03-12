@@ -11,4 +11,15 @@ const pari = nums.filter((num) => {
 
 console.log(pari);
 
+
+//bonus
+// const num = [];
+// for (let i = 0; i < nums.length; i++) {
+//     if(nums[i] % 2 === 0){
+//         num.push(nums[i]);
+//     }
+    
+// }
+
+//console.log(num);
 // Risultato: [2, 8, 4, 12]
