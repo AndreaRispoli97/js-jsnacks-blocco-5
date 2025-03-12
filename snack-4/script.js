@@ -11,4 +11,16 @@ const onlyAuthors = posts.map((posts) => {return posts.author});
 
 console.log(onlyAuthors);
 
+//bonus
+// const onlyAuthors = [];
+
+// for (let i = 0; i < posts.length; i++) {
+//   onlyAuthors.push(posts[i].author);
+  
+  
+// }
+// console.log(onlyAuthors);
+
+
+
 // Risultato: ['Marco', 'Luca', 'Fabrizio', 'Enrico']
